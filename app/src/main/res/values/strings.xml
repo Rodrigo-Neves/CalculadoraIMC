@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="title_home">IMC - Calculadora do Índice de Massa Corporal</string>
+    <string name="text_peso">Informe o Peso (Ex:70.0)</string>
+    <string name="text_altura">Informe Altura (Ex: 1.75)</string>
+    <string name="buttom_clean">Limpar</string>
+    <string name="buttom_calculator">Calcular IMC</string>
+</resources>
